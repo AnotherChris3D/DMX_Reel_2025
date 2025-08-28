@@ -1,0 +1,55 @@
+Universe,Fixture Group,Fixture Type,Fixture Index,Mode Channels,DMX Start,DMX End,Footprint,Notes,Address Range
+U1,Overhead Truss (L),Moving Head Beam,1,16,1,16,16,Left overhead movers; odd grouping (5) for sweep focus,1–16
+U1,Overhead Truss (L),Moving Head Beam,2,16,18,33,16,Left overhead movers; odd grouping (5) for sweep focus,18–33
+U1,Overhead Truss (L),Moving Head Beam,3,16,35,50,16,Left overhead movers; odd grouping (5) for sweep focus,35–50
+U1,Overhead Truss (L),Moving Head Beam,4,16,52,67,16,Left overhead movers; odd grouping (5) for sweep focus,52–67
+U1,Overhead Truss (L),Moving Head Beam,5,16,69,84,16,Left overhead movers; odd grouping (5) for sweep focus,69–84
+U1,Overhead Truss (R),Moving Head Beam,1,16,86,101,16,Right overhead movers; mirrors left,86–101
+U1,Overhead Truss (R),Moving Head Beam,2,16,103,118,16,Right overhead movers; mirrors left,103–118
+U1,Overhead Truss (R),Moving Head Beam,3,16,120,135,16,Right overhead movers; mirrors left,120–135
+U1,Overhead Truss (R),Moving Head Beam,4,16,137,152,16,Right overhead movers; mirrors left,137–152
+U1,Overhead Truss (R),Moving Head Beam,5,16,154,169,16,Right overhead movers; mirrors left,154–169
+U2,Side Truss (L),LED Wash,1,10,1,10,10,Left side washes; even for symmetry,1–10
+U2,Side Truss (L),LED Wash,2,10,12,21,10,Left side washes; even for symmetry,12–21
+U2,Side Truss (L),LED Wash,3,10,23,32,10,Left side washes; even for symmetry,23–32
+U2,Side Truss (L),LED Wash,4,10,34,43,10,Left side washes; even for symmetry,34–43
+U2,Side Truss (R),LED Wash,1,10,45,54,10,Right side washes; even for symmetry,45–54
+U2,Side Truss (R),LED Wash,2,10,56,65,10,Right side washes; even for symmetry,56–65
+U2,Side Truss (R),LED Wash,3,10,67,76,10,Right side washes; even for symmetry,67–76
+U2,Side Truss (R),LED Wash,4,10,78,87,10,Right side washes; even for symmetry,78–87
+U3,DJ Booth Center Row,Moving Head Beam,1,16,1,16,16,Centerpiece; odd grouping (5) with middle anchor,1–16
+U3,DJ Booth Center Row,Moving Head Beam,2,16,18,33,16,Centerpiece; odd grouping (5) with middle anchor,18–33
+U3,DJ Booth Center Row,Moving Head Beam,3,16,35,50,16,Centerpiece; odd grouping (5) with middle anchor,35–50
+U3,DJ Booth Center Row,Moving Head Beam,4,16,52,67,16,Centerpiece; odd grouping (5) with middle anchor,52–67
+U3,DJ Booth Center Row,Moving Head Beam,5,16,69,84,16,Centerpiece; odd grouping (5) with middle anchor,69–84
+U4,Floor FX (L),Strobe,1,2,1,2,2,Left strobes; pair for symmetric hits,1–2
+U4,Floor FX (L),Strobe,2,2,4,5,2,Left strobes; pair for symmetric hits,4–5
+U4,Floor FX (R),Strobe,1,2,7,8,2,Right strobes; pair for symmetric hits,7–8
+U4,Floor FX (R),Strobe,2,2,10,11,2,Right strobes; pair for symmetric hits,10–11
+U4,Floor FX Center,FX Bar (Pixel Segment),1,12,13,24,12,Center FX bars (3) for mid-chases,13–24
+U4,Floor FX Center,FX Bar (Pixel Segment),2,12,26,37,12,Center FX bars (3) for mid-chases,26–37
+U4,Floor FX Center,FX Bar (Pixel Segment),3,12,39,50,12,Center FX bars (3) for mid-chases,39–50
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),1,30,1,30,30,Backline pixel animation; consider sACN transport,1–30
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),2,30,32,61,30,Backline pixel animation; consider sACN transport,32–61
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),3,30,63,92,30,Backline pixel animation; consider sACN transport,63–92
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),4,30,94,123,30,Backline pixel animation; consider sACN transport,94–123
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),5,30,125,154,30,Backline pixel animation; consider sACN transport,125–154
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),6,30,156,185,30,Backline pixel animation; consider sACN transport,156–185
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),7,30,187,216,30,Backline pixel animation; consider sACN transport,187–216
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),8,30,218,247,30,Backline pixel animation; consider sACN transport,218–247
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),9,30,249,278,30,Backline pixel animation; consider sACN transport,249–278
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),10,30,280,309,30,Backline pixel animation; consider sACN transport,280–309
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),11,30,311,340,30,Backline pixel animation; consider sACN transport,311–340
+U5,Pixel Bars Backline,RGB Pixel Bar (10px @3ch),12,30,342,371,30,Backline pixel animation; consider sACN transport,342–371
+U6,Scenic & Booth Trim,LED Tape Controller (16px @3ch),1,48,1,48,48,"Booth trim, risers, scenic accents",1–48
+U6,Scenic & Booth Trim,LED Tape Controller (16px @3ch),2,48,50,97,48,"Booth trim, risers, scenic accents",50–97
+U6,Scenic & Booth Trim,LED Tape Controller (16px @3ch),3,48,99,146,48,"Booth trim, risers, scenic accents",99–146
+U6,Scenic & Booth Trim,LED Tape Controller (16px @3ch),4,48,148,195,48,"Booth trim, risers, scenic accents",148–195
+U6,Scenic & Booth Trim,LED Tape Controller (16px @3ch),5,48,197,244,48,"Booth trim, risers, scenic accents",197–244
+U6,Scenic & Booth Trim,LED Tape Controller (16px @3ch),6,48,246,293,48,"Booth trim, risers, scenic accents",246–293
+U6,Scenic & Booth Trim,LED Tape Controller (16px @3ch),7,48,295,342,48,"Booth trim, risers, scenic accents",295–342
+U6,Scenic & Booth Trim,LED Tape Controller (16px @3ch),8,48,344,391,48,"Booth trim, risers, scenic accents",344–391
+U7,Laser Universe,DMX Laser Unit,1,20,1,20,20,Keep lasers isolated for safety controls,1–20
+U7,Laser Universe,DMX Laser Unit,2,20,22,41,20,Keep lasers isolated for safety controls,22–41
+U7,Laser Universe,DMX Laser Unit,3,20,43,62,20,Keep lasers isolated for safety controls,43–62
+U7,Laser Universe,DMX Laser Unit,4,20,64,83,20,Keep lasers isolated for safety controls,64–83

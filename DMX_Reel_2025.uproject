@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A5DC7CF7-407F-AE7E-4788-859712C9F09A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DMX_Reel_2025",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "DMXControlConsole",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXFixtures",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXPixelMapping",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXProtocol",
+			"Enabled": true
+		},
+		{
+			"Name": "VisualStudioTools",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			],
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/362651520df94e4fa65492dbcba44ae2"
+		}
+	]
+}
